@@ -7,7 +7,8 @@ const FeedbackButton = ({ feedback, onLeaveFeedback }) => {
     <button
       className={s.button}
       type="button"
-      data-feedback={feedback}
+      name={feedback}
+      key={feedback}
       onClick={onLeaveFeedback}
     >
       {feedback}
@@ -21,8 +22,8 @@ const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   );
 };
 
-FeedbackOptions.PropTypes = {
-  options: PropTypes.arrayOf(PropTypes.string.isRequired),
+FeedbackOptions.propTypes = {
+  options: PropTypes.arrayOf(PropTypes.string).isRequired,
   onLeaveFeedback: PropTypes.func.isRequired,
 };
 
