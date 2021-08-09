@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/css/main.3ac17328.chunk.css",
+    "main.js": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/js/main.aed818da.chunk.js",
+    "main.js.map": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/js/main.aed818da.chunk.js.map",
+    "runtime-main.js": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/js/runtime-main.df22bca7.js",
+    "runtime-main.js.map": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/js/runtime-main.df22bca7.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.c8a450db.chunk.js": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/js/2.c8a450db.chunk.js",
+    "static/js/2.c8a450db.chunk.js.map": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/js/2.c8a450db.chunk.js.map",
+    "index.html": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.3ac17328.chunk.css.map": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/css/main.3ac17328.chunk.css.map",
+    "static/js/2.c8a450db.chunk.js.LICENSE.txt": "/prodanserega.github.io/goit-react-hw-04-hooks-feedback/static/js/2.c8a450db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df22bca7.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.c8a450db.chunk.js",
+    "static/css/main.3ac17328.chunk.css",
+    "static/js/main.aed818da.chunk.js"
+  ]
+}
